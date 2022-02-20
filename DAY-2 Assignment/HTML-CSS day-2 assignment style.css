@@ -1,0 +1,18 @@
+h1{
+    font-family: impact;
+    font-size:large;
+    color:black ;
+    font-weight: 300;
+    background-color: beige;
+    text-align: center;
+}
+h2{
+    font-family: georgia;
+    font-size: medium;
+    font-weight: 200;
+    font-style: oblique;   
+}
+li{
+    font-family: arial;
+    font-size: small;
+}
